@@ -1,0 +1,5 @@
+{
+  "/v1/buyers":"/v2/buyers",
+  "/v1/orders":"/v2/transactions",
+  "/v1/items": "/v2/products"
+}
