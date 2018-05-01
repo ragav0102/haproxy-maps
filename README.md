@@ -1,4 +1,4 @@
-# haproxy_mapway
+== Real-time maps in HAProxy
 
 Mapway is a tool which updates HAProxy maps in real-time.
 
